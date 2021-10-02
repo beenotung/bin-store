@@ -1,14 +1,18 @@
 {
   "name": "bin-store",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "TODO: add desc",
   "keywords": [],
-  "author": {
-    "name": "Beeno Tung",
-    "email": "aabbcc1241@yahoo.com.hk",
-    "url": "https://beeno-tung.surge.sh"
-  },
+  "author": "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh)",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/bin-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beenotung/bin-store/issues"
+  },
+  "homepage": "https://github.com/beenotung/bin-store#readme",
   "main": "dist/cjs/index.js",
   "types": "dist/cjs/index.d.ts",
   "module": "dist/esm/index.js",
