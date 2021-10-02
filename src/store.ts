@@ -65,7 +65,7 @@ export function store(file: string) {
       rawSize += ref.buffer.length
     }
   })
-  console.log({ numRef, numRaw, rawSize, root })
+  console.debug({ numRef, numRaw, rawSize, root })
 }
 
 store('raw')
