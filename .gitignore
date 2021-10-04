@@ -10,3 +10,5 @@ dist/
 .husky/_
 .nyc_output
 coverage/
+
+sqlite3.db
